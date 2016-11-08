@@ -6,5 +6,8 @@ h1{
     text-decoration: underline;
 }
 html{
-     background-color: #98FB98;
+    background-color: #98FB98;
+}
+p a{ 
+    color: #A52A2A;
 }
