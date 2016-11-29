@@ -1,13 +1,16 @@
-html{
-    font-size: 20px;
-   
-    }
-h1{
-    text-align: center;
-}
-*{
+* {
     background-color: #99ccff;
     text-align: center;
 }
 
+html {
+    font-size: 20px;
+}
 
+h1 {
+    text-align: center;
+}
+
+ul {
+    width: 300px;
+}
