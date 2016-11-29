@@ -8,6 +8,7 @@ html {
     width: 600px;
     margin-left: auto;
     margin-right: auto;
+    border: 2px solid black;
 }
 
 h1 {
@@ -15,5 +16,4 @@ h1 {
 }
 
 ul {
-    width: 300px;
 }
